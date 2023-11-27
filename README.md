@@ -1,7 +1,7 @@
 ##
 
 <div>
-  <h1 align="center"><font color="green"><code style="color : cyan">SO LONG (115/125)</code></font></h1>
+  <h1 align="center"><font color="green"><code style="color : cyan">SO LONG (115/100)</code></font></h1>
 </div>
 
 <div align="center">
