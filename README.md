@@ -4,6 +4,12 @@
   <h1 align="center"><font color="green"><code style="color : cyan">SO LONG (115/125)</code></font></h1>
 </div>
 
+<div align="center">
+   <a href="https://cdn.discordapp.com/attachments/1155374909153874016/1178828974734970880/GAME_OVER.mp4?ex=65779109&is=65651c09&hm=9662383f23c0593d41c2581ff90f1c68e3a1c8a612fd7168d9f3caded778b63d&" target="_blank">
+      <img height=550 src="images/fdf_increaseZ.gif">
+   </a>
+</div><br>
+
 ##
 
 # Percy's Odyssey: A 2D Game Project
