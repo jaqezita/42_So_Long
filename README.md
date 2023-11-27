@@ -1,3 +1,5 @@
+
+https://github.com/jaqezita/42_so_long/assets/42703229/aab04255-e89a-4065-92fc-767f45252c39
 ##
 
 <div>
@@ -5,7 +7,7 @@
 </div>
 
 
-https://github.com/jaqezita/42_so_long/assets/42703229/988696ff-af52-4ae5-9365-0783bcc4442b
+https://github.com/jaqezita/42_so_long/assets/42703229/4e79f58a-d64e-4b2c-adb2-c4bc53ef7589
 
 ##
 
