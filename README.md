@@ -1,5 +1,3 @@
-
-https://github.com/jaqezita/42_so_long/assets/42703229/aab04255-e89a-4065-92fc-767f45252c39
 ##
 
 <div>
